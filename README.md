@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is retired and will be archived.** It is no longer maintained.
+>
+> The maintained successor for golden paths and policy gating is **[agentic-platform-engineering-extravaganza](https://github.com/adventurewave-labs/agentic-platform-engineering-extravaganza)**: a reproducible demo in which an agent's one-sentence request is rendered through a Score golden path, a provisioner set, an OPA/Conftest policy bundle, and an authorization-gated MCP server until it passes every policy check, with production approval still held by a human, and it runs locally with no accounts, API keys, or cluster.
+>
+> The successor does not replicate this repo's GitHub-repo-creation → ArgoCD deploy flow. The original README below is kept for reference.
+
 # 🚀 Agentic Golden Path — AI-Powered Developer Onboarding
 
 > **Say what you want to deploy. Watch it appear in ArgoCD.**
