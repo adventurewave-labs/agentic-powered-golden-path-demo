@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="agentic-powered-golden-path-demo — animated banner" width="100%"></p>
+
 > [!WARNING]
 > **This repository is retired and will be archived.** It is no longer maintained.
 >
