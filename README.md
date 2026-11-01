@@ -1,11 +1,18 @@
 <p align="center"><img src="assets/banner.svg" alt="agentic-powered-golden-path-demo — animated banner" width="100%"></p>
 
-> [!WARNING]
-> **This repository is retired and will be archived.** It is no longer maintained.
+> [!NOTE]
+> **Un-archived 2026-11-01 — kept as the origin demo of the Adventure Wave Labs agentic lineage.**
+> The idea this repo proved in October 2025 — an agent that takes governed action on a platform,
+> event by event, while a human stays in the loop — was carried forward and hardened:
 >
-> The maintained successor for golden paths and policy gating is **[agentic-platform-engineering-extravaganza](https://github.com/adventurewave-labs/agentic-platform-engineering-extravaganza)**: a reproducible demo in which an agent's one-sentence request is rendered through a Score golden path, a provisioner set, an OPA/Conftest policy bundle, and an authorization-gated MCP server until it passes every policy check, with production approval still held by a human, and it runs locally with no accounts, API keys, or cluster.
+> | What came after this demo | Where it lives |
+> |--|--|
+> | The policy gate: same one-sentence request, **42 policy-check failures across 12 rules driven to 0** in three iterations, with a human still holding the production approval. (The successor compares platforms, not pipelines — it does not replicate this repo's GitHub-repo-creation → ArgoCD flow.) | [agentic-platform-engineering-extravaganza](https://github.com/adventurewave-labs/agentic-platform-engineering-extravaganza) |
+> | **Turbo Flow** — the developer tool: rig-lite, a fail-closed cross-model review gate, a written constitution, and git-versioned agent memory. *Agents build. Humans merge.* | [turboflow.online](https://turboflow.online) · [marcuspat/turbo-flow](https://github.com/marcuspat/turbo-flow) |
+> | **Turbo Rig** — the DevOps tool for AI coding agents: a cross-model code-review gate as the pipeline check, git-versioned memory, a written constitution. *A harness drives an agent. A rig drives your harnesses.* | [turbo-rig.com](https://turbo-rig.com) · [marcuspat/turbo-rig](https://github.com/marcuspat/turbo-rig) |
 >
-> The successor does not replicate this repo's GitHub-repo-creation → ArgoCD deploy flow. The original README below is kept for reference.
+> The demo below is documented as it ran in October 2025. The code and the 22 ADRs are intact;
+> the end-to-end flow has not been re-validated since un-archiving.
 
 # 🚀 Agentic Golden Path — AI-Powered Developer Onboarding
 
