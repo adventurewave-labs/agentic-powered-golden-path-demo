@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adventurewave-labs.github.io/agentic-powered-golden-path-demo/sitemap.xml
