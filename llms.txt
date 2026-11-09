@@ -1,0 +1,10 @@
+# agentic-powered-golden-path-demo
+
+> Natural-language → GitOps developer onboarding demo (ArgoCD + OpenRouter). The origin of the lineage that became Turbo Flow (developer tool) and Turbo Rig (DevOps tool for AI coding agents).
+
+agentic-powered-golden-path-demo is maintained by Adventure Wave Labs (The lab for agentic developer tooling).
+
+## Links
+
+- [Landing page](https://adventurewave-labs.github.io/agentic-powered-golden-path-demo/): overview, features, FAQ
+- [Source code](https://github.com/adventurewave-labs/agentic-powered-golden-path-demo): README, issues, releases
